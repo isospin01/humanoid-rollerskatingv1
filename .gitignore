@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
+uv.lock
+
+# Virtual environments
+.venv
+
+# Logs and databases
+video
+wandb
+logs
+agents
+.test_artifacts/
+ckpts/
+dataset/roller_push/qc/
+dataset/roller_push/raw/
