@@ -47,7 +47,6 @@ The following checks were reported as passing locally during cleanup:
 
 ## Known Gaps
 
-- `mjlab` is not installed in this workspace, so runtime simulator smoke tests are still unverified here
 - checked-in AMP clips are still bootstrap-quality, not publication-quality retargeted demonstrations
 - physics and reward tuning are still expected after runtime validation:
   - wheel friction
